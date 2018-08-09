@@ -1,10 +1,13 @@
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
-import Chap2 from './Chap2';
-import Chap3 from './Chap3';
-import Chap4 from './Chap4';
-import Chap5 from './Chap5';
-import Chap6 from './Chap6';
+import Chap2 from './app/Chap2';
+import Chap3 from './app/Chap3';
+import Chap4 from './app/Chap4';
+import Chap5 from './app/Chap5';
+import Chap6 from './app/Chap6';
+import Chap7 from './app/Chap7';
+import Chap8 from './app/Chap8';
+import Chap9 from './app/Chap9';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -21,8 +24,10 @@ export default class App extends Component {
         {/* <Chap3/> */}
         {/* <Chap4/> */}
         {/* <Chap5/> */}
-        <Chap6/>
-        <Text style={styles.welcome}>Welcome to React Native!</Text>
+        {/* <Chap6/> */}
+        {/* <Chap7/> */}
+        {/* <Chap8/> */}
+        <Chap9/>
       </View>
     );
   }
