@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1533821370557" clover="3.2.0">
+  <project timestamp="1533821370557" name="All files">
+    <metrics statements="34" coveredstatements="26" conditionals="6" coveredconditionals="2" methods="24" coveredmethods="12" elements="64" coveredelements="40" complexity="0" loc="34" ncloc="34" packages="3" files="5" classes="5">
+      <package name="Utils">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <file name="index.js" path="/Users/ltraore/Documents/formation/test/Utils/index.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+          <line num="1" count="6" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="app">
+        <metrics statements="31" coveredstatements="23" conditionals="6" coveredconditionals="2" methods="21" coveredmethods="9"/>
+        <file name="Chap2.js" path="/Users/ltraore/Documents/formation/test/app/Chap2.js">
+          <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+        </file>
+        <file name="Chap9.js" path="/Users/ltraore/Documents/formation/test/app/Chap9.js">
+          <metrics statements="12" coveredstatements="8" conditionals="6" coveredconditionals="2" methods="11" coveredmethods="3"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="36" count="1" type="stmt"/>
+          <line num="39" count="1" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="47" count="0" type="stmt"/>
+          <line num="52" count="1" type="stmt"/>
+        </file>
+        <file name="SearchComponent.js" path="/Users/ltraore/Documents/formation/test/app/SearchComponent.js">
+          <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="3"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="15" count="1" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="26" count="1" type="stmt"/>
+          <line num="30" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="assets">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="NY1.jpg" path="/Users/ltraore/Documents/formation/test/assets/NY1.jpg">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
